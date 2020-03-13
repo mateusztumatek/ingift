@@ -1,0 +1,11 @@
+.categories-list {
+  list-style: none !important;
+  padding-left: 0px !important;
+}
+
+.categories-list li {
+  list-style: none !important;
+  padding: 5px 0px;
+  margin-left: 15px;
+}
+
