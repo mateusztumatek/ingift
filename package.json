@@ -22,7 +22,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "konva": "^4.0.16",
         "query-string": "^6.11.1",
         "vanilla-lazyload": "^12.4.0",
